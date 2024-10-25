@@ -11,6 +11,8 @@ This data analysisis project aims to provide insigths into the sales performance
 ### Data sources 
 Sales Data: The primary dataset used for this analysis is the sales_data.csv file, containing detailed information about each sale made by the company. 
 
+![300_filtered_Gras 1in Booth _1_124](https://github.com/user-attachments/assets/6c117449-fd75-4438-9a0e-adf5f824a4cf)
+
 ### Tools
 - Excel
   - Data cleaning [Download Here]()
@@ -54,6 +56,7 @@ Based on the analysis, we recommend the following actions:
 ### Limitations
 I had to remove all zero values from the budget and revenue columns because they would have  affected the accuracy of my conclusions from the analysis. There are still few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
 
+💻
 ### References
 1. SQL for Bussines by Werty.
 2. [Stack Overflow]()
